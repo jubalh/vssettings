@@ -210,7 +210,7 @@
 				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
 				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
 				<PropertyValue name="VirtualSpace">false</PropertyValue>
-				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
 				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
 				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
 				<PropertyValue name="ShowLineNumbers">true</PropertyValue>
